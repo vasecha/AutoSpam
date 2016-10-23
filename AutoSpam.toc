@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Auto|cff60ff00Spam|r
+## Notes: Spams predefined random messages in a set interval
+## Author: EinBaum https://github.com/EinBaum
+## Version: 1.0.0
+## SavedVariables: AUS_Global
+
+AutoSpam.lua 
